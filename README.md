@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanil8068" alt="yanil8068" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://yanil8068.github.io/portfolio2/](https://yanil8068.github.io/portfolio2/)
+- 👨‍💻 All of my projects are available at [https://github.com/yanil8068](https://github.com/yanil8068)
 
 - 📫 How to reach me **yanil8068@gmail.com**
 
