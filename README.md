@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ANIL YADAV</h1>
 <h3 align="center">A passionate full stack mern developer </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanil8068&label=Profile%20views&color=0e75b6&style=flat" alt="yanil8068" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanil8068" alt="yanil8068" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yanil8068](https://github.com/yanil8068)
