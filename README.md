@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANIL YADAV</h1>
-<h3 align="center">A passionate full stack mern developer </h3>
+<h3 align="center">A passionate full stack web developer with expertise in backend development </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanil8068" alt="yanil8068" /></a> </p>
 
